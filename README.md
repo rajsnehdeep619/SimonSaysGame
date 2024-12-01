@@ -1,2 +1,2 @@
 # SimonSaysGame
-Simon Says is a Children's game 
+Simon Says is a Children's game.
